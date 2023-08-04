@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nour Siwar</h1>
 <h3 align="center">A passionate software engineer student.</h3>
+<h4 align="center">UC Irvine Computer Science student.</h4>
 
-- 🌱 I’m currently learning **Android Development and Full-Stack Development**
+- 🌱 I’m currently learning **Android Development and Full-Stack Development** 
 
 - 📫 How to reach me **nour.siwar@outlook.com**
 
