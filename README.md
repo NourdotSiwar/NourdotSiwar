@@ -2,11 +2,9 @@
 <h3 align="center">A passionate software engineer student.</h3>
 <h4 align="center">UC Irvine Computer Science student.</h4>
 
-- 🌱 I’m currently learning **Android Development and Full-Stack Development** 
+- 🌱 I’m currently learning **Android Development** 
 
 - 📫 How to reach me **nour.siwar@outlook.com**
-
-- ⚡ Fun fact **I love ranch with fries and pizza.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
